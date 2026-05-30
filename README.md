@@ -36,7 +36,8 @@ The repository includes custom Python-based analysis scripts for:
 * **Bera et al. (2022):** *Active particles in explicit solvent: Dynamics of clustering for alignment interaction.*
 
 
-some examples:
+
+
 <img width="600" height="600" alt="frame_0146" src="https://github.com/user-attachments/assets/3f3a00b8-1776-4bdd-83c2-f7f05139ecdc" />
 <img width="600" height="600" alt="frame_0057" src="https://github.com/user-attachments/assets/30a9451c-5e4d-4c9f-9cb8-5e22a69208bd" />
 
